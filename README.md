@@ -13,13 +13,13 @@ This project demonstrates how to design and implement a segmented network using 
 - DNS set to 8.8.8.8
 
 ## 📐 Topology
-![Network Topology](screenshots/topology.png)
+![Network Topology](Screenshot 2025-05-18 194921.png)
 
 ## 🧪 Testing
 - Successful DHCP leases for all PCs
 - Inter-VLAN communication working
 - File server accessed via browser and ping
-- See `screenshots/` for results
+
 
 ## 🧾 IP Addressing Scheme
 
